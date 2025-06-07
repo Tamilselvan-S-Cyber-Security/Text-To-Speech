@@ -1,0 +1,4 @@
+pdf_to_audio_streamlit/
+├── app.py                 # Main Streamlit app
+├── requirements.txt       # Dependencies
+└── README.md              # Instructions

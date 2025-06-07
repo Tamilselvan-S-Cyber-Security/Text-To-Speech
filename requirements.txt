@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+gtts
+langdetect
+transformers
+torch
+sentencepiece
+deep-translator
